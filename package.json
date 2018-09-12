@@ -1,0 +1,22 @@
+{
+  "name": "champignon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackuarium/champignon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackuarium/champignon/issues"
+  },
+  "homepage": "https://github.com/Hackuarium/champignon#readme",
+  "dependencies": {
+    "image-js": "^0.21.1"
+  }
+}
